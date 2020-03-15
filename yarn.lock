@@ -1520,9 +1520,9 @@ acorn-walk@^6.0.1:
   integrity sha512-OtUw6JUTgxA2QoqqmrmQ7F2NYqiBPi/L2jqHyFtllhOUvXYQXf0Z1CYUinIfyT4bTCGmrA7gX9FvHA81uzCoVw==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.0.5, acorn@^6.0.7:
   version "6.1.1"
@@ -8561,11 +8561,6 @@ signature_pad@^2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/signature_pad/-/signature_pad-2.3.2.tgz#ca7230021c89cedeead27b33d8d16ff254e5f04a"
   integrity sha512-peYXLxOsIY6MES2TrRLDiNg2T++8gGbpP2yaC+6Ohtxr+a2dzoaqWosWDY9sWqTAAk6E/TyQO+LJw9zQwyu5kA==
-
-signature_pad@^3.0.0-beta.3:
-  version "3.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/signature_pad/-/signature_pad-3.0.0-beta.3.tgz#04bfc4403a9431edfbddacd9ab704f04dc7721fb"
-  integrity sha512-qBFUr24eH3twi3rNwLPW7XRSZs8l76r4C/ndh5Yby97x8v0wtYs4HPbbIRwuPwEIcZ01QTPKbizc/OumdisEBQ==
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
